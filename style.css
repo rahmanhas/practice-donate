@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.top{
+    width: 2000px;
+    height: 60vh;
+    background-image: url("./image/donation13.jpg");
+    background-blend-mode: overlay;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: white;
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 10%;
+}
+.top-title{
+    font-weight: 700;
+    font-size: 50px;
+    padding: 20px;
+}
+.top-description{
+    font-size: 22px;
+    padding: 10px 600px 10px;
+}
+.top-button{
+    background-color: palevioletred;
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+    border: none;
+    margin: 5px;
+
+}
